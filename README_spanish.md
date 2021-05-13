@@ -1,6 +1,8 @@
 # Portfolio de Ciencia de Datos :chart_with_upwards_trend:
 
-[English version]() 
+[English version](https://github.com/GEJ1/Data-Science-Portfolio/blob/main/README.md) 
+
+-----------------
 
 Proyectos en los que estoy trabajando o en los que trabajé:
 
